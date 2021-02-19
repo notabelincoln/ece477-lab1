@@ -1,4 +1,5 @@
 // Abe Jordan      ECE 477      Lab 1
+// Prints out the sizes of different variable types in C as well as some maximum values
 #include <stdio.h>
 #include <limits.h>
 
